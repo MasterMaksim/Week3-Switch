@@ -33,6 +33,10 @@ namespace GradingIf
             {
                 Console.WriteLine("Puudulik.");
             }
+            else 
+            {
+                Console.WriteLine("Vale väärtus!")
+            }
 
             Console.WriteLine("Kena päeva!");
         }

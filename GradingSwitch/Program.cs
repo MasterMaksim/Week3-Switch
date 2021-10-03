@@ -29,6 +29,9 @@ namespace GradingSwitch
                 case 'F':
                     Console.WriteLine("Puudulik.");
                     break;
+                default:
+                    Console.WriteLine("Vale väärtus!");
+                    break;
             }
 
             Console.WriteLine("Kena päeva!");
